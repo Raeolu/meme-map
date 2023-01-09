@@ -333,6 +333,23 @@
                  "width":50.2727272727272,
                  "x":438.484848484849,
                  "y":96.3333333333333
+                }, 
+                {
+                 "class":"",
+                 "height":62,
+                 "id":18,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"http:\/\/placekitten.com\/200\/300"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":62,
+                 "x":385.333333333333,
+                 "y":288
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -405,7 +422,7 @@
          "y":0
         }],
  "nextlayerid":51,
- "nextobjectid":18,
+ "nextobjectid":19,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -422,7 +439,7 @@
          "name":"mapImage",
          "type":"string",
          "value":"map.png"
-        },
+        }, 
         {
          "name":"mapName",
          "type":"string",
@@ -431,7 +448,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"/src\/main.ts"
+         "value":"\/src\/main.ts"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.9.2",
